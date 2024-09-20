@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+transformers
+torch
+tensorflow
+pytesseract
+opencv-python
+google-cloud-vision
+Pillow
