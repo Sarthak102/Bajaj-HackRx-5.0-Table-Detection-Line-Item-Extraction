@@ -1,7 +1,3 @@
-Here’s a **sample `README.md`** for your project:
-
----
-
 # **Invoice Processing - Table Detection & Line-Item Extraction**
 
 This project provides an AI-based solution for detecting tables and extracting line-item details from medical invoices using advanced OCR, NLP models, and deep learning techniques. It leverages cloud services like Google Cloud Vision API for OCR, and transformer-based models for better context understanding, offering high accuracy for both printed and handwritten text.
@@ -161,7 +157,3 @@ You can deploy the frontend to platforms like Vercel, Netlify, or even host it o
 - **AI-Powered Analytics**: Build an analytics dashboard for hospitals to gain insights from the extracted data.
 - **Voice Integration**: Enable voice commands to correct or add invoice information.
 - **Blockchain Integration**: Securely verify and store invoice data using blockchain.
-
----
-
-Let me know if you need further customization or specific sections!
